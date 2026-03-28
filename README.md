@@ -31,7 +31,7 @@ This task explored real world cyber threats such as identity theft and online fr
 
  ## 📌📌Key Takeaway
 
-This project reinforced that digital literacy goes beyond technical skills and is about being aware, cautious and responsible in an increasingly digital world.
+Thus, undertaking this project has demonstrated to me that there is more to learning digital literacy than how to use digital tools effectively. It reinforced the fact in my mind that digital literacy is not about how quickly one can click a mouse or how many digital tools one is familiar with but how efficiently and responsibly one uses these tools.
 
 
 # Submitted By:
