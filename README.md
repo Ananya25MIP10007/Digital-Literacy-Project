@@ -3,30 +3,30 @@ The repository is a collection of the tasks assigned to us as a part of our digi
 
 # 🔍 PROJECT OVERVIEW
 
-The project is structured into five modules (tasks), each focusing on a key aspect of digital literacy ranging from understanding basic concepts and building a professional online presence, to practicing coding, improving communication while staying safe from cyber threats. Through an interspersing of creative design, practical implementation and reflective learning; this project establishes that digital literacy is not just about using technology, but about using it wisely, ethically as well as responsibly in academic and real-world scenarios.
+In the existing world where everything is just a click away, being digitally active is not a difficult task at all. However, being digitally aware is a completely different story altogether. In this project, the definition of digital literacy is re-established not only as a tool but as a survival kit for being digitally smart, safe as well as responsible. This project has been divided into five interesting tasks that aim to explore different spheres of our digital lives.
 
 
-# 📝 Module Summaries
+# 📝 Task Summaries
 
-## ✦ ✧ ✩ ✪ Module 1 – Digital Literacy Awareness Infographic
+## ✦ ✧ ✩ ✪ Task 1 – Digital Literacy Awareness Infographic
 
-In this module, I designed a one-page infographic using Canva to simplify the concept of digital literacy. It covers key areas such as safe internet practices, useful digital tools, and email etiquette. The focus was on presenting information visually in a clear, engaging, and easy-to-understand format.
+Task 1 begins with the creation of a visually engaging infographic that presents the concept of digital literacy in a simple, clear and relatable manner. The aim was to break down a complex idea into an easily understandable format, making it accessible and meaningful from a personal perspective.
+ 
+## 💼 Task 2 – Student Digital Portfolio
 
-## 💼 Module 2 – Student Digital Portfolio
+This task involved creating a digital portfolio of a student through platforms like GitHub, LinkedIn and Kaggle (the platforms that I have chosen). It helped me understand the significance of creating a strong digital presence and how digital platforms can be effectively used to communicate skills and achievements for future tasks.
 
-This module involved creating and updating my profiles on platforms like GitHub, LinkedIn and Kaggle. The aim was to build a professional digital presence and understand how these platforms can be used for networking, showcasing skills, and future career opportunities.
+## 💻 Task 3 – Coding & Collaboration Platforms
 
-## 💻 Module 3 – Coding & Collaboration Platforms
+The third task of this project highlights on the aspect of practical learning through coding and collaboration tools like HackerRank and Google Forms, these platforms encouraged me to enhance skills such as logical thinking and problem-solving skills which are extremely relevant in today’s employment time. 
 
-In this module, I explored platforms like HackerRank and Google Forms. I solved a beginner level coding problem to strengthen logical thinking and also created a digital literacy quiz to understand data collection and collaboration using cloud-based tools.
+## ✉️ Task 4 – Email Etiquette & Digital Communication
 
-## ✉️ Module 4 – Email Etiquette & Digital Communication
+The fourth task is a more reflective approach through a scenario analysis with the help of which I was able to analyse the potential risk for digital communication to cause conflict and misunderstanding is highlighted. 
 
-This module focused on writing professional emails and understanding proper online communication. I created formal email drafts and a social media checklist, while also analysing a scenario to highlight the importance of clarity, tone, and respectful digital interaction.
+## ⚠️ Task 5 – Cybercrime Awareness & Prevention
 
-## ⚠️ Module 5 – Cybercrime Awareness & Prevention
-
-This module explored real-world cyber threats such as identity theft and online fraud. It includes a case study and a practical prevention checklist tailored for students, emphasizing the importance of digital safety, awareness, and responsible online behaviour.
+This task explored real world cyber threats such as identity theft and online fraud. It includes a case study and a practical prevention checklist tailored for students, emphasizing the importance of digital safety, awareness, and responsible online behaviour.
 
 
  ## 📌📌Key Takeaway
