@@ -6,7 +6,8 @@ The repository is a collection of the tasks assigned to us as a part of our digi
 The project is structured into five modules (tasks), each focusing on a key aspect of digital literacy ranging from understanding basic concepts and building a professional online presence, to practicing coding, improving communication while staying safe from cyber threats. Through an interspersing of creative design, practical implementation and reflective learning; this project establishes that digital literacy is not just about using technology, but about using it wisely, ethically as well as responsibly in academic and real-world scenarios.
 
 
-📚 Module Summaries
+# 📚 Module Summaries
+
 🎨 Module 1 – Digital Literacy Awareness Infographic
 
 In this module, I designed a one-page infographic using Canva to simplify the concept of digital literacy. It covers key areas such as safe internet practices, useful digital tools, and email etiquette. The focus was on presenting information visually in a clear, engaging, and easy-to-understand format.
