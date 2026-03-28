@@ -1,14 +1,14 @@
 # Digital-Literacy-Project
 The repository is a collection of the tasks assigned to us as a part of our digital literacy project that impacts our grade assessment, along with a single consolidated project report of the same.
 
-# 🚀 PROJECT OVERVIEW
+# 🔍 PROJECT OVERVIEW
 
 The project is structured into five modules (tasks), each focusing on a key aspect of digital literacy ranging from understanding basic concepts and building a professional online presence, to practicing coding, improving communication while staying safe from cyber threats. Through an interspersing of creative design, practical implementation and reflective learning; this project establishes that digital literacy is not just about using technology, but about using it wisely, ethically as well as responsibly in academic and real-world scenarios.
 
 
-# 📚 Module Summaries
+# 📝 Module Summaries
 
-## 🎨 Module 1 – Digital Literacy Awareness Infographic
+## ✦ ✧ ✩ ✪ Module 1 – Digital Literacy Awareness Infographic
 
 In this module, I designed a one-page infographic using Canva to simplify the concept of digital literacy. It covers key areas such as safe internet practices, useful digital tools, and email etiquette. The focus was on presenting information visually in a clear, engaging, and easy-to-understand format.
 
@@ -24,7 +24,7 @@ In this module, I explored platforms like HackerRank and Google Forms. I solved 
 
 This module focused on writing professional emails and understanding proper online communication. I created formal email drafts and a social media checklist, while also analysing a scenario to highlight the importance of clarity, tone, and respectful digital interaction.
 
-## 🔐 Module 5 – Cybercrime Awareness & Prevention
+## ⚠️ Module 5 – Cybercrime Awareness & Prevention
 
 This module explored real-world cyber threats such as identity theft and online fraud. It includes a case study and a practical prevention checklist tailored for students, emphasizing the importance of digital safety, awareness, and responsible online behaviour.
 
@@ -36,4 +36,5 @@ This project reinforced that digital literacy goes beyond technical skills and i
 
 # Submitted By:
 NAME: Ananya Pandey
+
 REG NO: 25MIP10007
