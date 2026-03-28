@@ -1,7 +1,8 @@
 # Digital-Literacy-Project
 The repository is a collection of the tasks assigned to us as a part of our digital literacy project that impacts our grade assessment, along with a single consolidated project report of the same.
 
-🚀# PROJECT OVERVIEW
+# 🚀 PROJECT OVERVIEW
+
 The project is structured into five modules (tasks), each focusing on a key aspect of digital literacy ranging from understanding basic concepts and building a professional online presence, to practicing coding, improving communication while staying safe from cyber threats. Through an interspersing of creative design, practical implementation and reflective learning; this project establishes that digital literacy is not just about using technology, but about using it wisely, ethically as well as responsibly in academic and real-world scenarios.
 
 
