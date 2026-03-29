@@ -40,3 +40,9 @@ Thus, undertaking this project has demonstrated to me that there is more to lear
 NAME: Ananya Pandey
 
 REG NO: 25MIP10007
+
+BRANCH: Integrated MTECH CSE (Computational and data science)
+
+COURSE CODE: CSE0001
+
+YEAR: 1st
