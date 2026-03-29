@@ -23,6 +23,8 @@ The third task of this project highlights on the aspect of practical learning th
 ## ✉️ Task 4 – Email Etiquette & Digital Communication
 
 The fourth task is a more reflective approach through a scenario analysis with the help of which I was able to analyse the potential risk for digital communication to cause conflict and misunderstanding is highlighted. 
+### Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeOjbnTSr6hH5VrzAejMQAQOFijjN3laIwjADpwQ6BZ08Ki4g/viewform?usp=header
+### Spreadsheet Link: https://docs.google.com/spreadsheets/d/1-t-Fl7VQ_fDg4vigQj-56bIvxqRVrw29NCMS8YsO3HU/edit?usp=sharing
 
 ## ⚠️ Task 5 – Cybercrime Awareness & Prevention
 
